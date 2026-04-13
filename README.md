@@ -16,6 +16,19 @@ Designed for clarity. Built for learning. Ready for real hardware.
 
 ---
 
+## 📺 Featured Video
+
+### **BruceWare Repo Just Launched!! — XPY‑US**
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=w8a11xyjKkU">
+  <img src="https://img.youtube.com/vi/w8a11xyjKkU/maxresdefault.jpg" width="70%" alt="BruceWare Repo Launch Video">
+</a>
+
+</div>
+
+---
+
 ## 🆕 Updates
 
 ### **JUST ADDED: Sub‑GHz “Jammer‑Style” Educational Files**
@@ -103,7 +116,7 @@ or through a custom launcher.
 Explore BruceWare tutorials, firmware demos,  
 and real‑device showcases on YouTube.
 
-👉 [Subscribe to XPY‑US](https://www.youtube.com/@XPY-US)
+👉 **Subscribe:** https://www.youtube.com/@XPY-US
 
 ---
 
