@@ -1,7 +1,3 @@
-Maintained by **XPY‑US** <img src="https://img.icons8.com/emoji/20/00aaff/check-mark-emoji.png">
-
-
-
 <div align="center">
 
 # 🚀 ScriptBase  
@@ -13,7 +9,7 @@ Maintained by **XPY‑US** <img src="https://img.icons8.com/emoji/20/00aaff/chec
 - Flipper‑style ESP32 devices  
 - Any ESP32 device supported by Bruce  
 
-A growing library of **simple, safe, reusable** Bruce scripts designed to help beginners learn fast while giving advanced users a clean foundation to build on.
+A growing library of **simple, safe, reusable** Bruce scripts designed to help new developers learn Bruce scripting while giving advanced users a solid foundation to build on.
 
 ---
 
@@ -33,7 +29,7 @@ Simple examples showing how to use the Bruce API:
 Scripts written to run on **any Bruce device** without modification.
 
 ### **Reusable Modules**
-Small, clean functions you can import into your own apps.
+Small functions you can import into your own apps.
 
 ### **Learning‑Focused Examples**
 Readable, well‑structured code meant to teach new Bruce developers the right way.
@@ -47,7 +43,7 @@ Readable, well‑structured code meant to teach new Bruce developers the right w
 ScriptBase is built to:
 
 - Help beginners learn Bruce scripting quickly  
-- Provide ready‑to‑use examples for all supported devices  
+- Provide ready‑to‑use examples for any supported device  
 - Offer a clean starting point for custom apps  
 - Keep scripts organized and easy to reuse  
 - Support larger projects like **Traplixy Dungeon**, **Script Hub**, and more  
@@ -88,12 +84,20 @@ Contributions are welcome — especially:
 
 ---
 
+## 👤 Maintainer
+
+**XPY‑US**
+<svg width="16" height="16" viewBox="0 0 24 24" style="vertical-align: middle; margin-left: 4px;">
+  <circle cx="12" cy="12" r="10" fill="#00f2ea" />
+  <path d="M9.2 12.5l2 2.1 3.7-4.6" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+
+---
+
 <div align="center">
 
 ## ❤️ Support This Project
 
-If you want to support ScriptBase and future Traplixy projects:
-
-### 👉 **[💖 Support ScriptBase](https://github.com/sponsors/XPY-US)**
+[![Support ScriptBase](https://img.shields.io/badge/Support-ScriptBase-%23ff4ddb?style=for-the-badge)](https://github.com/sponsors/XPY-US)
 
 </div>
