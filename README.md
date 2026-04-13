@@ -1,29 +1,44 @@
 <div align="center">
 
-# ScriptBase  
+# BruceWare Beginner Friendly  
 ### A Cross‑Device Bruce Firmware Script Library
 
 ![Verified](https://img.shields.io/badge/Verified-00AEEF?style=flat&logo=github&logoColor=white)
 ![Compatibility](https://img.shields.io/badge/ESP32-Universal-4CAF50)
 ![Status](https://img.shields.io/badge/Project-Active-2962FF)
 
-ScriptBase provides a curated collection of **beginner‑friendly**, **device‑safe**, and **cross‑compatible** Bruce firmware scripts.  
+BruceWare Beginner Friendly provides a curated collection of **beginner‑friendly**,  
+**device‑safe**, and **cross‑compatible** Bruce firmware scripts.  
 Designed for clarity. Built for learning. Ready for real hardware.
 
 </div>
-UPDATEDS: JUST ADDED JAMMERS 
+
+---
+
+## 🆕 Updates
+
+### **JUST ADDED: Sub‑GHz “Jammer‑Style” Example Files**  
+These are **educational RF noise examples** organized by frequency.  
+They help beginners understand Sub‑GHz structure, file formatting,  
+and how different frequency bands are commonly used in real devices.
+
+They do **not** clone, spoof, or emulate any real hardware —  
+they are strictly for learning how Bruce handles Sub‑GHz files.
+
 ---
 
 ## 📘 Overview
 
-ScriptBase is engineered to support developers working across multiple Bruce‑compatible ESP32 devices, including:
+BruceWare Beginner Friendly is engineered to support developers working across multiple  
+Bruce‑compatible ESP32 devices, including:
 
 - **M5StickC PLUS2**  
 - **LilyGO T‑Embed**  
 - **Flipper‑style ESP32 devices**  
 - **Any additional hardware supported by the Bruce runtime**
 
-Each script is written with a focus on **readability**, **safety**, and **consistent behavior** across devices.
+Each script is written with a focus on **readability**, **safety**,  
+and **consistent behavior** across devices.
 
 ---
 
@@ -44,13 +59,14 @@ Modules designed to run identically across all supported devices.
 Import‑ready components for building larger applications.
 
 ### **Learning‑Focused Examples**
-Structured, readable code intended to help new developers understand Bruce fundamentals quickly and confidently.
+Structured, readable code intended to help new developers  
+understand Bruce fundamentals quickly and confidently.
 
 ---
 
 ## 🎯 Purpose
 
-ScriptBase exists to:
+BruceWare Beginner Friendly exists to:
 
 - Provide a reliable starting point for new Bruce developers  
 - Offer ready‑to‑use examples for multiple hardware platforms  
@@ -58,7 +74,8 @@ ScriptBase exists to:
 - Support larger projects such as **Traplixy Dungeon** and **Script Hub**  
 - Encourage safe, maintainable development practices  
 
-Every script is written with **clarity**, **compatibility**, and **long‑term usability** in mind.
+Every script is written with **clarity**, **compatibility**,  
+and **long‑term usability** in mind.
 
 ---
 
@@ -74,7 +91,8 @@ Use any supported method:
 - Custom script management tools  
 
 ### **3. Run Scripts**
-Launch scripts directly from the device’s file browser or through a custom launcher.
+Launch scripts directly from the device’s file browser  
+or through a custom launcher.
 
 ---
 
@@ -109,6 +127,6 @@ Ideal contributions include:
 
 If you would like to support ongoing development:
 
-### **[Sponsor ScriptBase](https://github.com/sponsors/XPY-US)**
+### **[Sponsor BruceWare](https://github.com/sponsors/XPY-US)**
 
 </div>
